@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <vehicle>
+    <vin>1HGCM82633A004352</vin>
+    <stock_number>STK-001</stock_number>
+    <year>2022</year>
+    <make>Honda</make>
+    <model>Accord</model>
+    <trim>Sport</trim>
+    <price>28500</price>
+    <mileage>12000</mileage>
+    <color>White</color>
+    <interior_color>Black</interior_color>
+    <transmission>Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <drivetrain>FWD</drivetrain>
+    <condition>Used</condition>
+    <description>One owner, clean title, dealer maintained.</description>
+    <options>
+      <option>Sunroof</option>
+      <option>Heated Seats</option>
+    </options>
+    <disclaimer>All prices plus tax, title, and license.</disclaimer>
+    <photos>
+      <photo>https://placehold.co/800x600/png?text=Accord+Front</photo>
+      <photo>https://placehold.co/800x600/png?text=Accord+Rear</photo>
+    </photos>
+  </vehicle>
+
+  <vehicle>
+    <vin>4T1G11AK5PU123456</vin>
+    <stock_number>STK-002</stock_number>
+    <year>2023</year>
+    <make>Toyota</make>
+    <model>Camry</model>
+    <trim>XLE</trim>
+    <price>32000</price>
+    <mileage>8500</mileage>
+    <color>Blue</color>
+    <interior_color>Gray</interior_color>
+    <transmission>Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <drivetrain>FWD</drivetrain>
+    <condition>Used</condition>
+    <description>Low miles, excellent condition.</description>
+    <photos>
+      <photo>https://placehold.co/800x600/png?text=Camry+Front</photo>
+    </photos>
+  </vehicle>
+
+  <vehicle>
+    <vin>1FTFW1E89PFA12345</vin>
+    <stock_number>STK-003</stock_number>
+    <year>2024</year>
+    <make>Ford</make>
+    <model>F-150</model>
+    <trim>XLT</trim>
+    <price>45000</price>
+    <mileage>500</mileage>
+    <color>Red</color>
+    <transmission>Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Truck</body_style>
+    <drivetrain>4WD</drivetrain>
+    <condition>New</condition>
+    <description>Brand new, factory warranty.</description>
+    <photos>
+      <photo>https://placehold.co/800x600/png?text=F150</photo>
+    </photos>
+  </vehicle>
+
+  <vehicle>
+    <vin>2GNAXUEV4M6111111</vin>
+    <stock_number>STK-004</stock_number>
+    <year>2021</year>
+    <make>Chevrolet</make>
+    <model>Equinox</model>
+    <trim>LT</trim>
+    <price>22000</price>
+    <mileage>35000</mileage>
+    <color>Silver</color>
+    <transmission>Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <drivetrain>AWD</drivetrain>
+    <condition>Used</condition>
+    <description>Well maintained, one owner.</description>
+    <photos>
+      <photo>https://placehold.co/800x600/png?text=Equinox</photo>
+    </photos>
+  </vehicle>
+
+  <vehicle>
+    <vin>1C4RJFBG5LC222222</vin>
+    <stock_number>STK-005</stock_number>
+    <year>2020</year>
+    <make>Jeep</make>
+    <model>Grand Cherokee</model>
+    <trim>Limited</trim>
+    <price>29900</price>
+    <mileage>42000</mileage>
+    <color>Black</color>
+    <transmission>Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <drivetrain>4WD</drivetrain>
+    <condition>Used</condition>
+    <description>Loaded with options.</description>
+    <disclaimer>Dealer is not responsible for typographical errors.</disclaimer>
+    <photos>
+      <photo>https://placehold.co/800x600/png?text=Cherokee</photo>
+    </photos>
+  </vehicle>
+</inventory>
