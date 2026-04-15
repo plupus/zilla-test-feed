@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <vehicle>
+    <vin>1HGBH41JXMN109186</vin>
+    <body_style>Sedan</body_style>
+    <price>23900</price>
+    <mileage>16800</mileage>
+  </vehicle>
+
+  <vehicle>
+    <vin>5YFBURHE1LP012345</vin>
+    <body_style>SUV</body_style>
+    <price>31500</price>
+    <mileage>9200</mileage>
+  </vehicle>
+
+  <vehicle>
+    <vin>1FTFW1E50NFA00001</vin>
+    <body_style>Pickup</body_style>
+    <mileage>30100</mileage>
+    <description>Updated description</description>
+  </vehicle>
+
+  <vehicle>
+    <vin>WBA53BJ07PCK12345</vin>
+    <body_style>Coupe</body_style>
+    <price>46900</price>
+  </vehicle>
+
+  <vehicle>
+    <vin>2C4RC1BG8NR100001</vin>
+    <body_style>Van</body_style>
+    <mileage>21000</mileage>
+  </vehicle>
+</inventory>
