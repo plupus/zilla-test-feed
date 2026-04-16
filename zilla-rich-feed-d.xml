@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <dealer>
+    <name>Metro Performance Autos</name>
+    <dealer_id>MPA-TX-004</dealer_id>
+  </dealer>
+  <feed_disclaimer><![CDATA[Vehicle information is deemed reliable but not guaranteed. Prices shown exclude tax, title, registration, dealer documentary fee, finance charges, and optional products. Vehicle photos may include stock or representative images.]]></feed_disclaimer>
+
+  <vehicle>
+    <vin>1G1YY22G515012360</vin>
+    <stock_number>MPA-9001</stock_number>
+    <year>2021</year>
+    <make>Chevrolet</make>
+    <model>Corvette</model>
+    <trim>Stingray 2LT</trim>
+    <price>67995</price>
+    <mileage>9400</mileage>
+    <exterior_color>Rapid Blue</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <transmission>8-Speed Dual-Clutch Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Coupe</body_style>
+    <engine>6.2L V8</engine>
+    <drivetrain>RWD</drivetrain>
+    <doors>2</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Highly optioned Corvette Stingray 2LT in Rapid Blue with front lift, magnetic ride, and performance exhaust. Exceptionally clean and enthusiast-owned.]]></description>
+    <seller_notes><![CDATA[Paint protection film on front clip, mirrors, and rocker panels. Annual fluid service completed. Two tops included, body-color and transparent.]]></seller_notes>
+    <disclaimer><![CDATA[Performance driving can increase wear and maintenance needs. Verify tire condition, brake life, and modification status prior to purchase.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200</photo>
+    </photos>
+    <options>
+      <option>Front Lift</option>
+      <option>Magnetic Ride Control</option>
+      <option>Performance Exhaust</option>
+      <option>GT2 Bucket Seats</option>
+      <option>Bose Performance Audio</option>
+      <option>Head-Up Display</option>
+      <option>Performance Data Recorder</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>JH4NA1150MT012361</vin>
+    <stock_number>MPA-9002</stock_number>
+    <year>2022</year>
+    <make>Acura</make>
+    <model>NSX</model>
+    <trim>Type S</trim>
+    <price>214900</price>
+    <mileage>3200</mileage>
+    <exterior_color>Gotham Gray Matte</exterior_color>
+    <interior_color>Ebony Alcantara</interior_color>
+    <transmission>9-Speed Dual-Clutch Automatic</transmission>
+    <fuel_type>Hybrid</fuel_type>
+    <body_style>Coupe</body_style>
+    <engine>3.5L Twin-Turbo V6 Hybrid</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>2</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Rare NSX Type S with lightweight package, carbon exterior pieces, and hand-built hybrid performance drivetrain. Collector-grade condition.]]></description>
+    <remarks><![CDATA[Stored in climate-controlled garage. PPF applied to full body. Original window sticker, manuals, and battery tender included.]]></remarks>
+    <disclaimer><![CDATA[Collector and specialty vehicles may carry market-based pricing fluctuations. Availability and pricing should be confirmed directly with dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1200</photo>
+    </photos>
+    <options>
+      <option>Lightweight Package</option>
+      <option>Carbon Fiber Roof</option>
+      <option>Carbon Ceramic Brakes</option>
+      <option>ELS Studio Audio</option>
+      <option>Sport Hybrid SH-AWD</option>
+      <option>Track Mode</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>1N6AA1ED5NN012362</vin>
+    <stock_number>MPA-9003</stock_number>
+    <year>2022</year>
+    <make>Nissan</make>
+    <model>Titan XD</model>
+    <trim>PRO-4X Crew Cab</trim>
+    <price>44850</price>
+    <mileage>26100</mileage>
+    <exterior_color>Baja Storm</exterior_color>
+    <interior_color>Black Lava Leatherette</interior_color>
+    <transmission>9-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Truck</body_style>
+    <engine>5.6L Endurance V8</engine>
+    <drivetrain>4WD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Titan XD PRO-4X with off-road package, locking rear differential, skid plates, and integrated trailer brake controller. Heavy-duty capability with comfort features.]]></description>
+    <seller_notes><![CDATA[Bed floor coated with Line-X. Tow mirrors added. Tire tread measures 9/32 all around. Rear shocks replaced under warranty.]]></seller_notes>
+    <disclaimer><![CDATA[Payload and towing figures vary by equipment and cargo. Verify commercial or recreational suitability with dealer before use.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1590362891991-f776e747a588?w=1200</photo>
+    </photos>
+    <options>
+      <option>PRO-4X Off-Road Package</option>
+      <option>Skid Plates</option>
+      <option>Electronic Locking Rear Differential</option>
+      <option>Trailer Brake Controller</option>
+      <option>Fender Premium Audio</option>
+      <option>Heated Front Seats</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>WP1AB2AY4NDA12363</vin>
+    <stock_number>MPA-9004</stock_number>
+    <year>2022</year>
+    <make>Porsche</make>
+    <model>Cayenne</model>
+    <trim>S Coupe</trim>
+    <price>86500</price>
+    <mileage>14880</mileage>
+    <exterior_color>Chromite Black Metallic</exterior_color>
+    <interior_color>Black/Bordeaux Leather</interior_color>
+    <transmission>8-Speed Tiptronic S</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>2.9L Twin-Turbo V6</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Cayenne S Coupe with Premium Package Plus, adaptive air suspension, and sport exhaust. Performance SUV with upscale finishes and low miles.]]></description>
+    <dealer_comments><![CDATA[Full paint correction completed and ceramic coating installed. New Michelin Pilot Sport tires at 14,200 miles. All service up to date.]]></dealer_comments>
+    <disclaimer><![CDATA[High-performance and luxury vehicle maintenance may be more expensive than standard vehicles. Verify service contract coverage with dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200</photo>
+    </photos>
+    <options>
+      <option>Premium Package Plus</option>
+      <option>Adaptive Air Suspension</option>
+      <option>Sport Exhaust</option>
+      <option>14-Way Comfort Seats</option>
+      <option>BOSE Surround Sound</option>
+      <option>Surround View</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>JTJAM7BX5N2012364</vin>
+    <stock_number>MPA-9005</stock_number>
+    <year>2022</year>
+    <make>Lexus</make>
+    <model>GX 460</model>
+    <trim>Luxury</trim>
+    <price>59875</price>
+    <mileage>22340</mileage>
+    <exterior_color>Nori Green Pearl</exterior_color>
+    <interior_color>Sepia Leather</interior_color>
+    <transmission>6-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>4.6L V8</engine>
+    <drivetrain>4WD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Lexus GX 460 Luxury with captain's chairs, off-road capability, and premium comfort. Excellent condition with strong V8 reliability and classic body-on-frame construction.]]></description>
+    <seller_notes><![CDATA[Recent Lexus dealer service performed. Underbody inspected and clean. Small scratch on rear bumper cover touched in. Includes weather mats and cargo tray.]]></seller_notes>
+    <disclaimer><![CDATA[Off-road capability depends on terrain, tires, and operator experience. Buyers should inspect vehicle condition and confirm equipment before purchase.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+    </photos>
+    <options>
+      <option>Luxury Package</option>
+      <option>Captain's Chairs</option>
+      <option>Mark Levinson Audio</option>
+      <option>Multi-Terrain Select</option>
+      <option>Heated and Ventilated Seats</option>
+      <option>Power Folding Third Row</option>
+    </options>
+  </vehicle>
+</inventory>
