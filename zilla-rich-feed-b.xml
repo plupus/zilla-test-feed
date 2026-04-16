@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <dealer>
+    <name>Coastal Auto Group</name>
+    <dealer_id>COASTAL-CA-002</dealer_id>
+  </dealer>
+  <feed_disclaimer><![CDATA[Prices do not include government fees and taxes, finance charges, dealer document preparation charges, or emission testing charges. All vehicles subject to prior sale. Mileage listed is based on odometer reading at time of listing and may vary.]]></feed_disclaimer>
+
+  <vehicle>
+    <vin>JTDKARFU9L3012350</vin>
+    <stock_number>CA-5001</stock_number>
+    <year>2020</year>
+    <make>Toyota</make>
+    <model>Prius</model>
+    <trim>XLE AWD-e</trim>
+    <price>24900</price>
+    <mileage>38500</mileage>
+    <exterior_color>Supersonic Red</exterior_color>
+    <interior_color>Black SofTex</interior_color>
+    <transmission>CVT</transmission>
+    <fuel_type>Hybrid</fuel_type>
+    <body_style>Hatchback</body_style>
+    <engine>1.8L Hybrid I4</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Efficient AWD Prius XLE with Toyota Safety Sense 2.0. Heated front seats, wireless charging, and 11.6-inch multimedia display. Exceptional fuel economy, 50+ MPG combined.]]></description>
+    <remarks><![CDATA[Hybrid battery health verified at Toyota dealer, all cells balanced. 12V battery replaced 6 months ago. Wiper blades and cabin filter replaced at intake. Single owner, all highway miles.]]></remarks>
+    <disclaimer><![CDATA[Fuel economy estimates are EPA-based and actual mileage will vary by driving style, road conditions, and climate.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=1200&amp;q=80</photo>
+    </photos>
+    <options>
+      <option>Toyota Safety Sense 2.0</option>
+      <option>Heated Front Seats</option>
+      <option>Wireless Charging</option>
+      <option>11.6-inch Display</option>
+      <option>Rain-Sensing Wipers</option>
+      <option>Blind Spot Monitor</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>1N4BL4BV4LC012351</vin>
+    <stock_number>CA-5002</stock_number>
+    <year>2020</year>
+    <make>Nissan</make>
+    <model>Altima</model>
+    <trim>2.5 SR</trim>
+    <price>21500</price>
+    <mileage>44200</mileage>
+    <exterior_color>Gun Metallic</exterior_color>
+    <interior_color>Charcoal Sport Cloth</interior_color>
+    <transmission>CVT Xtronic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>2.5L I4</engine>
+    <drivetrain>FWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Sharp SR trim with sport-tuned suspension, LED headlights, and ProPilot Assist. Apple CarPlay and Android Auto compatible. Great daily driver.]]></description>
+    <seller_notes><![CDATA[Two-owner vehicle. Second owner purchased at 22,000 miles. Brakes at 60% life remaining. Small door ding on passenger side reflected in pricing. All recalls completed.]]></seller_notes>
+    <disclaimer><![CDATA[This vehicle has a minor cosmetic imperfection on the passenger door reflected in the listing price. Review photos and confirm condition with dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1200</photo>
+    </photos>
+    <options>
+      <option>ProPilot Assist</option>
+      <option>Sport-Tuned Suspension</option>
+      <option>LED Headlights</option>
+      <option>Remote Start</option>
+      <option>Apple CarPlay</option>
+      <option>Android Auto</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>2T1BURHE8LC012352</vin>
+    <stock_number>CA-5003</stock_number>
+    <year>2020</year>
+    <make>Toyota</make>
+    <model>Corolla</model>
+    <trim>SE</trim>
+    <price>19750</price>
+    <mileage>51300</mileage>
+    <exterior_color>Blueprint</exterior_color>
+    <interior_color>Black Fabric</interior_color>
+    <transmission>CVT</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>2.0L Dynamic Force I4</engine>
+    <drivetrain>FWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Sporty Corolla SE with 2.0L engine and sport-tuned suspension. Toyota Safety Sense 2.0 standard. Reliable, efficient, and fun to drive.]]></description>
+    <dealer_comments><![CDATA[Great entry-level vehicle. Runs and drives perfectly. We completed a full detail and multi-point inspection. Ready for immediate delivery.]]></dealer_comments>
+    <disclaimer><![CDATA[Advertised price excludes taxes, title, registration, dealer document fee, and optional dealer-installed products.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&amp;q=80</photo>
+    </photos>
+    <options>
+      <option>Toyota Safety Sense 2.0</option>
+      <option>Sport Suspension</option>
+      <option>8-inch Touchscreen</option>
+      <option>18-inch Alloy Wheels</option>
+      <option>Lane Departure Alert</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>3GNAXKEV0LS012353</vin>
+    <stock_number>CA-5004</stock_number>
+    <year>2020</year>
+    <make>Chevrolet</make>
+    <model>Equinox</model>
+    <trim>LT AWD</trim>
+    <price>23200</price>
+    <mileage>39800</mileage>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black Cloth</interior_color>
+    <transmission>6-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>1.5L Turbo I4</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Well-equipped LT AWD model with confidence and convenience package. Heated seats, remote start, and power liftgate. Ideal family SUV with excellent safety ratings.]]></description>
+    <remarks><![CDATA[Fleet vehicle from a local business, well maintained with regular oil changes every 5,000 miles. Service records available. Interior in excellent condition. AWD system inspected and functioning properly.]]></remarks>
+    <disclaimer><![CDATA[Prior commercial or fleet use may affect warranty coverage or resale value. Please verify coverage and history with dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200</photo>
+    </photos>
+    <options>
+      <option>Confidence and Convenience Package</option>
+      <option>Heated Front Seats</option>
+      <option>Remote Start</option>
+      <option>Power Liftgate</option>
+      <option>HD Rear Vision Camera</option>
+      <option>Rear Park Assist</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>WDDWK8DB2LF012354</vin>
+    <stock_number>CA-5005</stock_number>
+    <year>2020</year>
+    <make>Mercedes-Benz</make>
+    <model>E-Class</model>
+    <trim>E 350 4MATIC</trim>
+    <price>42900</price>
+    <mileage>31500</mileage>
+    <exterior_color>Polar White</exterior_color>
+    <interior_color>Macchiato Beige MB-Tex</interior_color>
+    <transmission>9-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>2.0L Turbo I4 + EQ Boost</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Elegant E 350 4MATIC with mild hybrid EQ Boost technology. Premium Package, Burmester surround sound, and 12.3-inch dual screens. Exceptional luxury and technology.]]></description>
+    <seller_notes><![CDATA[Lease return from authorized dealer. Full MB service history. New front brake rotors and pads installed. Recently aligned and balanced. Extended limited warranty available for purchase.]]></seller_notes>
+    <disclaimer><![CDATA[Luxury vehicle maintenance costs may be higher than non-luxury vehicles. Extended warranty options are available at additional cost. Ask your sales representative for details.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200</photo>
+    </photos>
+    <options>
+      <option>Premium Package</option>
+      <option>Burmester Surround Sound</option>
+      <option>12.3-inch Dual Screens</option>
+      <option>EQ Boost Mild Hybrid</option>
+      <option>Heated and Ventilated Seats</option>
+      <option>Parking Pilot</option>
+      <option>Active Brake Assist</option>
+    </options>
+  </vehicle>
+</inventory>
