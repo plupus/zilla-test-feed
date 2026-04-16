@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <dealer>
+    <name>Land Rover Chandler</name>
+    <dealer_id>PENSKE-AZ-003</dealer_id>
+  </dealer>
+  <feed_disclaimer><![CDATA[All advertised prices exclude tax, title, registration, dealer documentation fee, reconditioning costs if applicable, and any installed accessories. Vehicles are subject to prior sale. Dealer is not responsible for typographical or image errors.]]></feed_disclaimer>
+
+  <vehicle>
+    <vin>SALZP2FX0PH012355</vin>
+    <stock_number>LRC-7001</stock_number>
+    <year>2023</year>
+    <make>Land Rover</make>
+    <model>Discovery Sport</model>
+    <trim>S R-Dynamic</trim>
+    <price>43850</price>
+    <mileage>18400</mileage>
+    <exterior_color>Fuji White</exterior_color>
+    <interior_color>Ebony DuoLeather</interior_color>
+    <transmission>9-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>2.0L Turbocharged I4</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Stylish Discovery Sport S R-Dynamic with premium cabin finishes, panoramic roof, and advanced driver assistance. A versatile luxury SUV for daily use or family travel.]]></description>
+    <seller_notes><![CDATA[Land Rover Chandler is now open in Chandler Arizona and is excited to serve you. We’ll make sure you’re completely satisfied through every step of the buying and ownership process. Scottsdale, Mesa, Tempe, Phoenix, and Queen Creek drivers will always be greeted by friendly smiling faces and a team that listens to all your needs. That's a Penske promise.]]></seller_notes>
+    <disclaimer><![CDATA[Land Rover Chandler is now open in Chandler Arizona and is excited to serve you. We’ll make sure you’re completely satisfied with every step of the way through the car buying and ownership process. Scottsdale Mesa Tempe Phoenix and Queen Creek drivers will always be greeted by friendly smiling faces and a team that listens to all your needs. That’s a Penske promise.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+    </photos>
+    <options>
+      <option>Panoramic Roof</option>
+      <option>Adaptive Cruise Control</option>
+      <option>ClearSight Interior Rear View Mirror</option>
+      <option>Meridian Sound System</option>
+      <option>Blind Spot Assist</option>
+      <option>3D Surround Camera</option>
+      <option>Wireless Device Charging</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>SALGS2SE2PA012356</vin>
+    <stock_number>LRC-7002</stock_number>
+    <year>2023</year>
+    <make>Land Rover</make>
+    <model>Range Rover Sport</model>
+    <trim>SE</trim>
+    <price>78995</price>
+    <mileage>11200</mileage>
+    <exterior_color>Carpathian Grey</exterior_color>
+    <interior_color>Light Cloud Windsor Leather</interior_color>
+    <transmission>8-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>3.0L Turbocharged Inline-6</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Range Rover Sport SE with dynamic air suspension, premium cabin, and advanced off-road capability. Luxury performance SUV with striking road presence.]]></description>
+    <dealer_comments><![CDATA[One-owner local trade. No paintwork detected on meter. Full ceramic tint installed. All software updates current and both key fobs included.]]></dealer_comments>
+    <disclaimer><![CDATA[Vehicle accessories and optional equipment should be confirmed with the dealer. Price does not include taxes, registration, title, dealer fees, or optional service contracts.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200</photo>
+    </photos>
+    <options>
+      <option>Dynamic Air Suspension</option>
+      <option>Meridian 3D Surround Sound</option>
+      <option>Head-Up Display</option>
+      <option>Soft Door Close</option>
+      <option>Adaptive Dynamics</option>
+      <option>21-inch Alloy Wheels</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>1C6SRFJT5PN012357</vin>
+    <stock_number>LRC-7003</stock_number>
+    <year>2023</year>
+    <make>Ram</make>
+    <model>1500</model>
+    <trim>Laramie Crew Cab</trim>
+    <price>52950</price>
+    <mileage>23600</mileage>
+    <exterior_color>Diamond Black Crystal</exterior_color>
+    <interior_color>Black Leather</interior_color>
+    <transmission>8-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Truck</body_style>
+    <engine>5.7L HEMI V8</engine>
+    <drivetrain>4WD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Laramie Crew Cab with luxury-level interior, tow package, and premium infotainment. Strong V8 power and refined ride quality.]]></description>
+    <remarks><![CDATA[Prior owner used this truck for light recreational towing only. Bedliner and tonneau cover installed. Recent alignment and brake service completed.]]></remarks>
+    <disclaimer><![CDATA[Towing and payload capacities vary by equipment, cargo, and trailer configuration. Verify ratings before use.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1590362891991-f776e747a588?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200</photo>
+    </photos>
+    <options>
+      <option>Trailer Tow Group</option>
+      <option>12-inch Uconnect Display</option>
+      <option>Heated and Ventilated Front Seats</option>
+      <option>Spray-In Bedliner</option>
+      <option>Remote Start</option>
+      <option>Blind Spot Monitoring</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>5UXCR6C05P9012358</vin>
+    <stock_number>LRC-7004</stock_number>
+    <year>2023</year>
+    <make>BMW</make>
+    <model>X5</model>
+    <trim>xDrive40i</trim>
+    <price>61800</price>
+    <mileage>20550</mileage>
+    <exterior_color>Mineral White</exterior_color>
+    <interior_color>Coffee Vernasca Leather</interior_color>
+    <transmission>8-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>3.0L Turbocharged Inline-6</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Well-optioned BMW X5 xDrive40i with Premium Package, parking assistance, and Harman Kardon sound. Luxury SUV with sporty handling.]]></description>
+    <seller_notes><![CDATA[Lease return with documented BMW service history. Front PPF applied. Tires measure 8/32 all around. Rear cargo liner included.]]></seller_notes>
+    <disclaimer><![CDATA[Luxury-brand maintenance and replacement parts may cost more than non-luxury vehicles. Verify coverage and service contract options with dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200</photo>
+    </photos>
+    <options>
+      <option>Premium Package</option>
+      <option>Parking Assistance Package</option>
+      <option>Harman Kardon Audio</option>
+      <option>Panoramic Glass Roof</option>
+      <option>Head-Up Display</option>
+      <option>Wireless Charging</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>WA1LXAF70PD012359</vin>
+    <stock_number>LRC-7005</stock_number>
+    <year>2023</year>
+    <make>Audi</make>
+    <model>Q7</model>
+    <trim>Premium Plus</trim>
+    <price>57250</price>
+    <mileage>17880</mileage>
+    <exterior_color>Mythos Black Metallic</exterior_color>
+    <interior_color>Okapi Brown Leather</interior_color>
+    <transmission>8-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>3.0L Turbocharged V6</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Audi Q7 Premium Plus with third-row seating, virtual cockpit, and advanced safety technology. Excellent condition with strong service history.]]></description>
+    <seller_notes><![CDATA[Two-key vehicle with original manuals. Brake fluid service completed. Front bumper has very minor stone chips consistent with mileage.]]></seller_notes>
+    <disclaimer><![CDATA[Third-row usability and cargo space vary by seating configuration. Confirm equipment and optional packages with the selling dealer.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200</photo>
+    </photos>
+    <options>
+      <option>Virtual Cockpit</option>
+      <option>Bang &amp; Olufsen Audio</option>
+      <option>Top View Camera</option>
+      <option>Third-Row Seating</option>
+      <option>Adaptive Cruise Assist</option>
+      <option>Wireless Apple CarPlay</option>
+    </options>
+  </vehicle>
+</inventory>
