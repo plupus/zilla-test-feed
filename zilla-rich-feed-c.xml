@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inventory version="1.0" feed_name="zilla-rich-feed-c">
+  <metadata>
+    <generated_at>2026-04-15T18:45:00Z</generated_at>
+    <source_type>dealer_inventory_xml</source_type>
+    <currency>USD</currency>
+  </metadata>
+  <dealer>
+    <dealer_id>land-rover-chandler-demo</dealer_id>
+    <name>Land Rover Chandler</name>
+    <phone>(480) 555-0148</phone>
+    <email>inventory@landroverchandler.example</email>
+    <website>https://www.landroverchandler.example</website>
+    <address1>1234 S Motor Pkwy</address1>
+    <city>Chandler</city>
+    <state>AZ</state>
+    <postal_code>85226</postal_code>
+    <country>US</country>
+    <dealer_disclaimer>Land Rover Chandler is now open in Chandler, Arizona and is excited to serve you. Dealer-installed accessories and document fees may affect final price. Contact dealer for complete details.</dealer_disclaimer>
+    <platform_disclaimer>Vehicle information is supplied by the dealer feed and should be verified directly with the dealer before purchase.</platform_disclaimer>
+  </dealer>
+  <vehicles>
+    <vehicle>
+      <record_id>C-1001</record_id>
+      <status>active</status>
+      <vin>2C4RC1BG7PR512301</vin>
+      <stock_number>LRC-PAC-2301</stock_number>
+      <year>2023</year>
+      <make>Chrysler</make>
+      <model>Pacifica</model>
+      <trim>XLE</trim>
+      <body_style>Van</body_style>
+      <condition>used</condition>
+      <certified_pre_owned>false</certified_pre_owned>
+      <price>27695</price>
+      <msrp>36450</msrp>
+      <mileage>20500</mileage>
+      <fuel_type>Gasoline</fuel_type>
+      <transmission>Automatic</transmission>
+      <drivetrain>FWD</drivetrain>
+      <cylinders>6</cylinders>
+      <engine_size>3.6L</engine_size>
+      <exterior_color>Black</exterior_color>
+      <interior_color>Beige</interior_color>
+      <doors>4</doors>
+      <seats>7</seats>
+      <mpg_city>19</mpg_city>
+      <mpg_highway>28</mpg_highway>
+      <title_status>Clean</title_status>
+      <accidents_reported>0</accidents_reported>
+      <number_of_owners>1</number_of_owners>
+      <frame_damage>No</frame_damage>
+      <seller_disclosure>No known issues; maintenance current</seller_disclosure>
+      <seller_notes>Price reduced. Clean local trade with power sliding doors, rear entertainment, second-row captain's chairs, fresh service inspection, and new front brake pads.</seller_notes>
+      <vehicle_disclaimer>Price excludes tax, title, registration, dealer doc fee, and installed accessories.</vehicle_disclaimer>
+      <location_city>Chandler</location_city>
+      <location_state>AZ</location_state>
+      <options>
+        <option>Leather Seats</option>
+        <option>Power Sliding Doors</option>
+        <option>Blind Spot Monitor</option>
+        <option>Adaptive Cruise Control</option>
+        <option>Apple CarPlay</option>
+        <option>Android Auto</option>
+        <option>Remote Start</option>
+        <option>Heated Steering Wheel</option>
+      </options>
+      <features>
+        <feature>3rd Row Seating</feature>
+        <feature>Rear Backup Camera</feature>
+        <feature>Bluetooth</feature>
+        <feature>Lane Departure Warning</feature>
+        <feature>Heated Front Seats</feature>
+      </features>
+      <images>
+        <image position="1">https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="2">https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="3">https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="4">https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+      </images>
+      <disclosures>
+        <disclosure>Minor cosmetic wear on rear bumper</disclosure>
+        <disclosure>Maintenance current</disclosure>
+      </disclosures>
+      <video_url>https://www.youtube.com/watch?v=ysz5S6PUM-U</video_url>
+    </vehicle>
+    <vehicle>
+      <record_id>C-1003</record_id>
+      <status>sold</status>
+      <vin>3GNAXUEV7NL145678</vin>
+      <stock_number>LRC-EQX-5678</stock_number>
+      <year>2022</year>
+      <make>Chevrolet</make>
+      <model>Equinox</model>
+      <trim>LT AWD</trim>
+      <body_style>SUV</body_style>
+      <condition>used</condition>
+      <certified_pre_owned>false</certified_pre_owned>
+      <price>22995</price>
+      <msrp>31810</msrp>
+      <mileage>32025</mileage>
+      <fuel_type>Gasoline</fuel_type>
+      <transmission>Automatic</transmission>
+      <drivetrain>AWD</drivetrain>
+      <cylinders>4</cylinders>
+      <engine_size>1.5L Turbo</engine_size>
+      <exterior_color>Blue</exterior_color>
+      <interior_color>Gray</interior_color>
+      <doors>4</doors>
+      <seats>5</seats>
+      <mpg_city>25</mpg_city>
+      <mpg_highway>30</mpg_highway>
+      <title_status>Clean</title_status>
+      <accidents_reported>1 minor</accidents_reported>
+      <number_of_owners>2</number_of_owners>
+      <frame_damage>No</frame_damage>
+      <seller_disclosure>Minor cosmetic wear</seller_disclosure>
+      <seller_notes>Vehicle recently sold, retained in feed for sold-status lifecycle validation.</seller_notes>
+      <vehicle_disclaimer>History report available on request. Buyer should independently verify prior damage history.</vehicle_disclaimer>
+      <location_city>Chandler</location_city>
+      <location_state>AZ</location_state>
+      <options>
+        <option>AWD</option>
+        <option>Remote Start</option>
+        <option>Power Driver Seat</option>
+        <option>Tinted Glass</option>
+        <option>Roof Rails</option>
+      </options>
+      <features>
+        <feature>Backup Camera</feature>
+        <feature>Bluetooth</feature>
+        <feature>Apple CarPlay</feature>
+        <feature>Android Auto</feature>
+        <feature>Lane Keep Assist</feature>
+      </features>
+      <images>
+        <image position="1">https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="2">https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="3">https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+      </images>
+      <disclosures>
+        <disclosure>Minor cosmetic wear</disclosure>
+        <disclosure>History report shows one minor accident</disclosure>
+      </disclosures>
+    </vehicle>
+    <vehicle>
+      <record_id>C-1004</record_id>
+      <status>active</status>
+      <vin>5TDKDRBH2PS012345</vin>
+      <stock_number>LRC-HGH-2345</stock_number>
+      <year>2023</year>
+      <make>Toyota</make>
+      <model>Highlander Hybrid</model>
+      <trim>XLE AWD</trim>
+      <body_style>SUV</body_style>
+      <condition>used</condition>
+      <certified_pre_owned>false</certified_pre_owned>
+      <price>40995</price>
+      <msrp>46820</msrp>
+      <mileage>14990</mileage>
+      <fuel_type>Hybrid</fuel_type>
+      <transmission>Automatic</transmission>
+      <drivetrain>AWD</drivetrain>
+      <cylinders>4</cylinders>
+      <engine_size>2.5L Hybrid</engine_size>
+      <exterior_color>Silver</exterior_color>
+      <interior_color>Black</interior_color>
+      <doors>4</doors>
+      <seats>7</seats>
+      <mpg_city>35</mpg_city>
+      <mpg_highway>34</mpg_highway>
+      <title_status>Clean</title_status>
+      <accidents_reported>0</accidents_reported>
+      <number_of_owners>1</number_of_owners>
+      <frame_damage>No</frame_damage>
+      <seller_disclosure>No known issues</seller_disclosure>
+      <seller_notes>Hybrid Highlander remains available after price adjustment and updated mileage.</seller_notes>
+      <vehicle_disclaimer>Hybrid battery warranty details available from dealer.</vehicle_disclaimer>
+      <location_city>Chandler</location_city>
+      <location_state>AZ</location_state>
+      <options>
+        <option>AWD</option>
+        <option>Sunroof</option>
+        <option>Power Liftgate</option>
+        <option>Adaptive Cruise Control</option>
+        <option>Blind Spot Monitor</option>
+        <option>Second Row Captain Chairs</option>
+      </options>
+      <features>
+        <feature>Backup Camera</feature>
+        <feature>Bluetooth</feature>
+        <feature>Apple CarPlay</feature>
+        <feature>Android Auto</feature>
+        <feature>Heated Front Seats</feature>
+      </features>
+      <images>
+        <image position="1">https://images.unsplash.com/photo-1504215680853-026ed2a45def?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="2">https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+        <image position="3">https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image>
+      </images>
+      <disclosures>
+        <disclosure>Maintenance current</disclosure>
+      </disclosures>
+    </vehicle>
+  </vehicles>
+</inventory>
