@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <dealer>
+    <name>Prestige Motors of Tampa</name>
+    <dealer_id>PRESTIGE-FL-001</dealer_id>
+  </dealer>
+  <feed_disclaimer><![CDATA[All prices exclude tax, title, license, and dealer fees. Prices are subject to change without notice. Not responsible for typographical errors. See dealer for complete details.]]></feed_disclaimer>
+
+  <vehicle>
+    <vin>1HGCV1F34PA012345</vin>
+    <stock_number>PM-2024-001</stock_number>
+    <year>2024</year>
+    <make>Honda</make>
+    <model>Civic</model>
+    <trim>Touring</trim>
+    <price>28995</price>
+    <mileage>12450</mileage>
+    <exterior_color>Crystal Black Pearl</exterior_color>
+    <interior_color>Black Leather</interior_color>
+    <transmission>CVT Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>1.5L Turbocharged I4</engine>
+    <drivetrain>FWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[One-owner, clean Carfax, no accidents. Loaded Touring model with heated leather seats, sunroof, and Honda Sensing suite. Full service history available.]]></description>
+    <seller_notes><![CDATA[This vehicle passed our 182-point inspection. Oil changed and new cabin filter installed at intake. Minor curb rash on right rear wheel, see photos. Factory warranty remaining until 04/2027 or 60,000 miles.]]></seller_notes>
+    <disclaimer><![CDATA[Price excludes tax, title, registration, dealer fee, and any finance charges. Confirm availability and equipment with dealer prior to purchase.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=1200&amp;q=80</photo>
+    </photos>
+    <options>
+      <option>Honda Sensing Suite</option>
+      <option>Heated Leather Seats</option>
+      <option>Power Moonroof</option>
+      <option>Wireless Apple CarPlay</option>
+      <option>Bose Premium Audio</option>
+      <option>Blind Spot Monitoring</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>5YJSA1E26MF012346</vin>
+    <stock_number>PM-2024-002</stock_number>
+    <year>2021</year>
+    <make>Tesla</make>
+    <model>Model 3</model>
+    <trim>Long Range AWD</trim>
+    <price>34500</price>
+    <mileage>28900</mileage>
+    <exterior_color>Midnight Silver Metallic</exterior_color>
+    <interior_color>White Premium Interior</interior_color>
+    <transmission>Single-Speed Direct Drive</transmission>
+    <fuel_type>Electric</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>Dual Motor Electric</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Excellent condition Tesla Model 3 Long Range with Full Self-Driving capability. Premium interior, autopilot, and all software updates current.]]></description>
+    <seller_notes><![CDATA[Battery health at 94% as of last diagnostic. New tires installed at 27,000 miles. Ceramic coating applied. Includes home charging cable and J1772 adapter. Minor paint correction on front bumper, documented in photos.]]></seller_notes>
+    <disclaimer><![CDATA[Electric vehicle range may vary based on driving conditions, temperature, and battery age. Listed range is manufacturer estimate for a new vehicle.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1571987502227-9231b837d92a?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=1200&amp;q=80</photo>
+    </photos>
+    <options>
+      <option>Full Self-Driving Capability</option>
+      <option>Premium Interior Package</option>
+      <option>19-inch Sport Wheels</option>
+      <option>Autopilot</option>
+      <option>Heated Front and Rear Seats</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>1C4RJFBG5LC012347</vin>
+    <stock_number>PM-2024-003</stock_number>
+    <year>2020</year>
+    <make>Jeep</make>
+    <model>Grand Cherokee</model>
+    <trim>Limited</trim>
+    <price>31750</price>
+    <mileage>42100</mileage>
+    <exterior_color>Slate Blue Pearl</exterior_color>
+    <interior_color>Black Nappa Leather</interior_color>
+    <transmission>8-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>SUV</body_style>
+    <engine>3.6L Pentastar V6</engine>
+    <drivetrain>4WD</drivetrain>
+    <doors>4</doors>
+    <condition>Certified Pre-Owned</condition>
+    <description><![CDATA[Certified Pre-Owned Jeep Grand Cherokee Limited 4x4. Premium Nappa leather, panoramic sunroof, and advanced safety features. 7-year/100,000-mile powertrain warranty included.]]></description>
+    <seller_notes><![CDATA[CPO vehicle with extended warranty. Brake pads replaced at 40,000 miles. Transmission fluid serviced. One prior lease return, clean title. Slight wear on driver seat bolster consistent with mileage.]]></seller_notes>
+    <disclaimer><![CDATA[Certified warranty coverage and eligibility should be independently confirmed with the selling dealer at time of purchase.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1502877338535-766e1452684a?w=1200</photo>
+    </photos>
+    <options>
+      <option>Panoramic Sunroof</option>
+      <option>Quadra-Trac II 4WD</option>
+      <option>Navigation System</option>
+      <option>Trailer Tow Package</option>
+      <option>Advanced Safety Group</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>WBA5R1C50LAH12348</vin>
+    <stock_number>PM-2024-004</stock_number>
+    <year>2020</year>
+    <make>BMW</make>
+    <model>3 Series</model>
+    <trim>330i xDrive</trim>
+    <price>33900</price>
+    <mileage>35200</mileage>
+    <exterior_color>Alpine White</exterior_color>
+    <interior_color>Cognac Vernasca Leather</interior_color>
+    <transmission>8-Speed Sport Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Sedan</body_style>
+    <engine>2.0L TwinPower Turbo I4</engine>
+    <drivetrain>AWD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Sport-line equipped 330i xDrive with M Sport suspension. Premium Package, Harman Kardon audio, and head-up display. Outstanding driver's car in excellent condition.]]></description>
+    <seller_notes><![CDATA[Traded in by a long-term customer. Full BMW dealer service history on file. Front tires recently replaced with run-flats. No warning lights, all systems functional.]]></seller_notes>
+    <disclaimer><![CDATA[Luxury-brand service, maintenance, and replacement part costs may be higher than non-luxury vehicles.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1200&amp;q=80</photo>
+    </photos>
+    <options>
+      <option>Premium Package</option>
+      <option>M Sport Suspension</option>
+      <option>Harman Kardon Audio</option>
+      <option>Head-Up Display</option>
+      <option>Parking Assistance Package</option>
+      <option>Live Cockpit Professional</option>
+    </options>
+  </vehicle>
+
+  <vehicle>
+    <vin>1FTEW1EP0MFA12349</vin>
+    <stock_number>PM-2024-005</stock_number>
+    <year>2021</year>
+    <make>Ford</make>
+    <model>F-150</model>
+    <trim>XLT SuperCrew</trim>
+    <price>39995</price>
+    <mileage>29800</mileage>
+    <exterior_color>Iconic Silver</exterior_color>
+    <interior_color>Medium Dark Slate</interior_color>
+    <transmission>10-Speed Automatic</transmission>
+    <fuel_type>Gasoline</fuel_type>
+    <body_style>Truck</body_style>
+    <engine>2.7L EcoBoost V6</engine>
+    <drivetrain>4WD</drivetrain>
+    <doors>4</doors>
+    <condition>Used</condition>
+    <description><![CDATA[Popular XLT SuperCrew 4x4 with the 2.7L EcoBoost. Chrome appearance package, spray-in bedliner, and tow package. Ready for work or weekends.]]></description>
+    <seller_notes><![CDATA[Bed has minor surface scratches from normal use. Tailgate operates properly. All four tires at 7/32 tread depth. Service records from Ford dealership available. Tow package rated for 8,500 lbs.]]></seller_notes>
+    <disclaimer><![CDATA[Towing capacity varies based on equipment, payload, and configuration. Verify towing and payload ratings before use.]]></disclaimer>
+    <photos>
+      <photo>https://images.unsplash.com/photo-1590362891991-f776e747a588?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200</photo>
+      <photo>https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200</photo>
+    </photos>
+    <options>
+      <option>Chrome Appearance Package</option>
+      <option>Spray-In Bedliner</option>
+      <option>Trailer Tow Package</option>
+      <option>360-Degree Camera</option>
+      <option>SYNC 4 with 12-inch Screen</option>
+      <option>Remote Start</option>
+    </options>
+  </vehicle>
+</inventory>
