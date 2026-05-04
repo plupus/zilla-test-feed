@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+  <Packages>
+    <Package>
+      <Vehicles>
+        <Vehicle>
+          <VehicleId>CAMS001</VehicleId>
+          <Vin>1HGCM82633A000004</Vin>
+          <Status>INVENTORY</Status>
+          <ContactName>Test Dealer</ContactName>
+          <CompanyName>Zilla XML Test Dealer</CompanyName>
+          <Details>
+            <Year>2022</Year>
+            <Make>Ford</Make>
+            <Model>F-150</Model>
+            <Trim>XLT</Trim>
+            <StockNumber>XMLCAMS001</StockNumber>
+            <CurrentPrice>31995</CurrentPrice>
+            <BuyNowPrice>31995</BuyNowPrice>
+            <MSRP>43995</MSRP>
+            <Mileage>42100</Mileage>
+            <Condition>GOOD</Condition>
+            <BodyStyle>pickup</BodyStyle>
+            <ExteriorColor>White</ExteriorColor>
+            <InteriorColor>Gray</InteriorColor>
+            <Transmission>automatic</Transmission>
+            <Drivetrain>4wd</Drivetrain>
+            <Fuel>gasoline</Fuel>
+            <Engine>3.5L V6</Engine>
+            <Doors>4</Doors>
+            <FreeText>CAMS-style nested XML test vehicle. This is not a live inventory vehicle.</FreeText>
+            <VehicleVideo>
+              <URL>https://example.com/video-cams-test</URL>
+            </VehicleVideo>
+            <VehicleImages>
+              <Image>
+                <URL>https://YOURDOMAIN.com/feed-test/f150-front.jpg</URL>
+              </Image>
+              <Image>
+                <URL>https://YOURDOMAIN.com/feed-test/f150-side.jpg</URL>
+              </Image>
+              <Image>
+                <URL>https://YOURDOMAIN.com/feed-test/f150-interior.jpg</URL>
+              </Image>
+            </VehicleImages>
+            <Equipments>
+              <EquipmentName>Backup Camera</EquipmentName>
+              <EquipmentName>Bluetooth</EquipmentName>
+              <EquipmentName>Tow Package</EquipmentName>
+            </Equipments>
+          </Details>
+          <Vir>
+            <ConditionReportURL>https://example.com/condition-report-cams-test</ConditionReportURL>
+            <TitleStatus>Clean</TitleStatus>
+            <SoldAsIs>Y</SoldAsIs>
+            <VehicleGrading>3.8</VehicleGrading>
+            <DisclosureCodeFlags>TEST_DISCLOSURE</DisclosureCodeFlags>
+          </Vir>
+          <Simulcast>
+            <Announcements>
+              <Announcement>Test announcement only. Not for sale.</Announcement>
+            </Announcements>
+          </Simulcast>
+        </Vehicle>
+      </Vehicles>
+    </Package>
+  </Packages>
+</Document>

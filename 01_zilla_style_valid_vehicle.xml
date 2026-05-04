@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+  <vehicle>
+    <vin>1HGCM82633A000002</vin>
+    <stock_number>XMLZILLA001</stock_number>
+    <year>2024</year>
+    <make>Honda</make>
+    <model>Civic</model>
+    <trim>EX</trim>
+    <price>24500</price>
+    <msrp>27995</msrp>
+    <condition>used</condition>
+    <mileage>12500</mileage>
+    <body_style>sedan</body_style>
+    <exterior_color>Blue</exterior_color>
+    <interior_color>Black</interior_color>
+    <transmission>automatic</transmission>
+    <drivetrain>fwd</drivetrain>
+    <fuel_type>gasoline</fuel_type>
+    <engine>2.0L 4-Cylinder</engine>
+    <doors>4</doors>
+    <description>Valid Zilla-style XML test vehicle. This is not a live inventory vehicle.</description>
+    <disclaimer>Test feed vehicle. Not for sale. Used only for Zilla XML feed validation.</disclaimer>
+    <carfax_url>https://example.com/carfax-test</carfax_url>
+    <window_sticker_url>https://example.com/window-sticker-test</window_sticker_url>
+    <video_url>https://example.com/video-test</video_url>
+    <condition_report_url>https://example.com/condition-report-test</condition_report_url>
+    <images>
+      <image>https://YOURDOMAIN.com/feed-test/civic-front.jpg</image>
+      <image>https://YOURDOMAIN.com/feed-test/civic-side.jpg</image>
+      <image>https://YOURDOMAIN.com/feed-test/civic-interior.jpg</image>
+    </images>
+  </vehicle>
+</vehicles>
