@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZillaSync version="1.0" timestamp="2026-05-15T08:00:00Z" dealer_id="DMS-AZ-8842">
+  <Vehicle>
+    <StockNumber>B24098</StockNumber>
+    <VIN>5UXWJ2C5XRE123456</VIN>
+    <Year>2024</Year>
+    <Make>BMW</Make>
+    <Model>X5</Model>
+    <Trim>sDrive40i</Trim>
+    <Price currency="USD">64950</Price>
+    <DealerComments><![CDATA[CPO 2024 BMW X5. One owner. Pricing includes all dealer incentives. Customer responsible for tax, title, and $499 doc fee.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/B24098/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>M22015</StockNumber>
+    <VIN>ZAM56RTA0N1234567</VIN>
+    <Year>2022</Year>
+    <Make>Maserati</Make>
+    <Model>Quattroporte</Model>
+    <Trim>Modena Q4</Trim>
+    <Price currency="USD">82900</Price>
+    <DealerComments><![CDATA[Modena Q4. Nero leather w/ Red contrast stitching. Local trade. Sale price reflects $2k finance rebate.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/M22015/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>H08044</StockNumber>
+    <VIN>1HD1PY4128Y123456</VIN>
+    <Year>2008</Year>
+    <Make>Harley-Davidson</Make>
+    <Model>XL1200 Custom</Model>
+    <Trim>105th Anniversary</Trim>
+    <Price currency="USD">8500</Price>
+    <DealerComments><![CDATA[105th Anniversary Limited Edition. Serialized #240/1500. Abundant chrome. Pre-delivery inspection complete.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/H08044/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>E23RV1</StockNumber>
+    <VIN>1F65F5370N0123456</VIN>
+    <Year>2023</Year>
+    <Make>Entegra Coach</Make>
+    <Model>Vision</Model>
+    <Trim>27A</Trim>
+    <Price currency="USD">119900</Price>
+    <DealerComments><![CDATA[Entegra Vision 27A Class A. One slide-out. Built on Ford F53 chassis. Includes solar prep.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/E23RV1/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>T25012</StockNumber>
+    <VIN>1GCPYBEK0PF123456</VIN>
+    <Year>2025</Year>
+    <Make>Chevrolet</Make>
+    <Model>Silverado 1500</Model>
+    <Trim>ZR2 Bison</Trim>
+    <Price currency="USD">78500</Price>
+    <DealerComments><![CDATA[ZR2 Bison Edition. AEV Bumpers. MSRP only. No dealer trade available.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/T25012/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>P21009</StockNumber>
+    <VIN>WP0AB2A91MS123456</VIN>
+    <Year>2021</Year>
+    <Make>Porsche</Make>
+    <Model>911</Model>
+    <Trim>Carrera S</Trim>
+    <Price currency="USD">128000</Price>
+    <DealerComments><![CDATA[Pristine 911 Carrera S. Sport Exhaust. PASM Sport Suspension. Clear Bra front clip.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/P21009/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>J24055</StockNumber>
+    <VIN>1C4RFAFGXRC123456</VIN>
+    <Year>2024</Year>
+    <Make>Jeep</Make>
+    <Model>Grand Cherokee</Model>
+    <Trim>4xe Trailhawk</Trim>
+    <Price currency="USD">68900</Price>
+    <DealerComments><![CDATA[4xe PHEV. 56 MPGe. Air Suspension. Demo unit. Clean title.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/J24055/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>F23099</StockNumber>
+    <VIN>1FTRFW1E0PF123456</VIN>
+    <Year>2023</Year>
+    <Make>Ford</Make>
+    <Model>F-150</Model>
+    <Trim>Raptor R</Trim>
+    <Price currency="USD">145000</Price>
+    <DealerComments><![CDATA[Raptor R. 700HP Supercharged V8. 37 Pkg. Market adjustment applies.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/F23099/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>L22033</StockNumber>
+    <VIN>5LMCJ1C50NL123456</VIN>
+    <Year>2022</Year>
+    <Make>Lincoln</Make>
+    <Model>Navigator</Model>
+    <Trim>Black Label</Trim>
+    <Price currency="USD">89950</Price>
+    <DealerComments><![CDATA[Black Label Central Park Theme. 30-way seats. BlueCruise included.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/L22033/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>D24101</StockNumber>
+    <VIN>1D7RV2GN0RS123456</VIN>
+    <Year>2024</Year>
+    <Make>Dodge</Make>
+    <Model>Durango</Model>
+    <Trim>SRT Hellcat</Trim>
+    <Price currency="USD">105000</Price>
+    <DealerComments><![CDATA[Durango Hellcat. 710HP. Red Laguna Leather. Last call for V8.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/D24101/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>R20044</StockNumber>
+    <VIN>SADN97435LR123456</VIN>
+    <Year>2020</Year>
+    <Make>Land Rover</Make>
+    <Model>Defender</Model>
+    <Trim>110 First Edition</Trim>
+    <Price currency="USD">58000</Price>
+    <DealerComments><![CDATA[Defender 110 First Edition. Pangea Green. Folding Fabric Roof.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/R20044/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>T23088</StockNumber>
+    <VIN>5TDTY3DB8PX123456</VIN>
+    <Year>2023</Year>
+    <Make>Toyota</Make>
+    <Model>Tundra</Model>
+    <Trim>TRD Pro</Trim>
+    <Price currency="USD">72000</Price>
+    <DealerComments><![CDATA[Tundra TRD Pro. Solar Octane. i-FORCE MAX Hybrid. Like new.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/T23088/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>A21056</StockNumber>
+    <VIN>W1N8J4KB1MW123456</VIN>
+    <Year>2021</Year>
+    <Make>Mercedes-Benz</Make>
+    <Model>GLC</Model>
+    <Trim>63 AMG</Trim>
+    <Price currency="USD">65000</Price>
+    <DealerComments><![CDATA[GLC 63 AMG. 469HP Hand-built V8. Carbon Fiber Trim. Service B done.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/A21056/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>S24011</StockNumber>
+    <VIN>1G6KD5RS2R0123456</VIN>
+    <Year>2024</Year>
+    <Make>Cadillac</Make>
+    <Model>CT5</Model>
+    <Trim>V Blackwing</Trim>
+    <Price currency="USD">98000</Price>
+    <DealerComments><![CDATA[CT5-V Blackwing. 6-Speed MANUAL. Collector quality. Carbon Ceramic Brakes.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/S24011/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>V22077</StockNumber>
+    <VIN>YV4BR02L2N1123456</VIN>
+    <Year>2022</Year>
+    <Make>Volvo</Make>
+    <Model>XC90</Model>
+    <Trim>Recharge Inscription</Trim>
+    <Price currency="USD">54000</Price>
+    <DealerComments><![CDATA[XC90 Recharge PHEV. 7-Passenger. Bowers & Wilkins Sound. Clean CARFAX.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/V22077/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>G23002</StockNumber>
+    <VIN>WDC0983451N123456</VIN>
+    <Year>2023</Year>
+    <Make>GMC</Make>
+    <Model>Hummer EV</Model>
+    <Trim>Edition 1</Trim>
+    <Price currency="USD">95000</Price>
+    <DealerComments><![CDATA[Hummer EV Edition 1. CrabWalk mode. Watts to Freedom. Infinity Roof.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/G23002/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>K24066</StockNumber>
+    <VIN>KNDCMDL30R7123456</VIN>
+    <Year>2024</Year>
+    <Make>Kia</Make>
+    <Model>EV9</Model>
+    <Trim>GT-Line</Trim>
+    <Price currency="USD">75000</Price>
+    <DealerComments><![CDATA[EV9 GT-Line. 3-Row Electric. Captains Chairs. Remote Smart Parking.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/K24066/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>N23091</StockNumber>
+    <VIN>1N4AL3AP1PC123456</VIN>
+    <Year>2023</Year>
+    <Make>Nissan</Make>
+    <Model>Z</Model>
+    <Trim>Performance</Trim>
+    <Price currency="USD">52000</Price>
+    <DealerComments><![CDATA[2023 Nissan Z. Performance Trans. Akebono Brakes. Rays Wheels.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/N23091/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>B24044</StockNumber>
+    <VIN>WVWZZZCDZPW123456</VIN>
+    <Year>2024</Year>
+    <Make>Volkswagen</Make>
+    <Model>Golf R</Model>
+    <Trim>20th Anniversary</Trim>
+    <Price currency="USD">48000</Price>
+    <DealerComments><![CDATA[Golf R 20th Anniversary. 315HP. DCC Chassis. Performance Torque Vectoring.]]></DealerComments>
+    <Media><Image order="1">https://cdn.zilla.io/v/B24044/01.jpg</Image></Media>
+  </Vehicle>
+
+  <Vehicle>
+    <StockNumber>R22055</StockNumber>
+    <VIN>7FCTGAA00NE123456</VIN>
+    <Year>2022</Year>
+    <Make>Rivian</Make>
